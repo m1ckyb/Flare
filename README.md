@@ -3,7 +3,7 @@
   <a title="简体中文" href="README_zh-CN.md"><img src="https://img.shields.io/badge/-%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-545759?style=for-the-badge" alt="简体中文"></a>
 </div>
 
-# ✔[UptimeFlare](https://github.com/lyc8503/UptimeFlare)
+# ✔[UptimeFlare](https://github.com/m1ckyb/Flare)
 
 A more advanced, serverless, and free uptime monitoring & status page solution, powered by Cloudflare Workers, complete with a user-friendly interface.
 
@@ -37,7 +37,7 @@ Some screenshots:
 
 ## ⚡Quickstart / 📄Documentation
 
-Please refer to [Wiki](https://github.com/lyc8503/UptimeFlare/wiki)
+Please refer to [Wiki](https://github.com/m1ckyb/Flare/wiki)
 
 ## New features (TODOs)
 

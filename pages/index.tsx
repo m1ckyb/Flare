@@ -75,7 +75,7 @@ export default function Home({
           }}
         >
           Open-source monitoring and status page powered by{' '}
-          <a href="https://github.com/lyc8503/UptimeFlare" target="_blank">
+          <a href="https://github.com/m1ckyb/Flare" target="_blank">
             Uptimeflare
           </a>{' '}
           and{' '}
